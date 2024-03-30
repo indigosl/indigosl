@@ -9,7 +9,7 @@
           "totalResults": 1000000,
           "resultsPerPage": 8
         },
-        "items":
+        "items": [
           {
             "kind": "youtube#searchResult",
             "etag": "xCPPbUpiRsgaVv2uGnj0MI7zFZ0",
@@ -282,6 +282,6 @@
               "publishTime": "2024-03-29T17:09:58Z"
             }
           }
-        
+        ]
       }
 ]
