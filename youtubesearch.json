@@ -1,15 +1,7 @@
 
-[
-    {
-        "kind": "youtube#searchListResponse",
-        "etag": "k-30niZ8c18ppN6LaGWmH51mziE",
-        "nextPageToken": "CAgQAA",
-        "regionCode": "SL",
-        "pageInfo": {
-          "totalResults": 1000000,
-          "resultsPerPage": 8
-        },
-        "items": [
+
+       
+       [
           {
             "kind": "youtube#searchResult",
             "etag": "xCPPbUpiRsgaVv2uGnj0MI7zFZ0",
@@ -283,5 +275,3 @@
             }
           }
         ]
-      }
-]
