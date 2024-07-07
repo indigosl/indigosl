@@ -29,6 +29,15 @@
         "provider_name": "Amazon Prime Video",
         "provider_id": 9,
         "provider_type": "provider"
+    },
+
+     {
+        "display_priority": 1,
+        "logo_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTow-D7IqMGdD6xmTqrfnukP7rE9WPwsdggTg&s",
+        "provider_name": "DSTV",
+        "provider_id": 9,
+        "provider_type": "livetv"
     }
+
 
 ]
