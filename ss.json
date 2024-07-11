@@ -1,0 +1,30 @@
+[
+    {
+        "provider_name": "Super Sport Variety 4",
+        "logo_path": "https://nowsportstv.com/wp-content/uploads/2024/01/ssv4.webp",
+        "provider_link": "https://nowsportstv.com/crichd/stream.php?id=hdchnl9&e=.m3u8",
+        "provider_id": 2,
+        "type": "sport"
+    },
+    {
+        "provider_name": "Super Sport Variety 3",
+        "logo_path": "https://nowsportstv.com/wp-content/uploads/2024/01/ssv3.webp",
+        "provider_link": "https://nowsportstv.com/crichd/stream.php?id=hdchnl8&e=.m3u8",
+        "provider_id": 2,
+        "type": "sport"
+    },
+    {
+        "provider_name": "Super Sport Variety 2",
+        "logo_path": "https://nowsportstv.com/wp-content/uploads/2024/01/ssv2.webp",
+        "provider_link": "https://nowsportstv.com/crichd/stream.php?id=hdchnl7&e=.m3u8",
+        "provider_id": 2,
+        "type": "sport"
+    },
+    {
+        "provider_name": "Super Sport Variety 1",
+        "logo_path": "https://nowsportstv.com/wp-content/uploads/2024/01/ssv1.webp",
+        "provider_link": "https://nowsportstv.com/crichd/stream.php?id=hdchnl6&e=.m3u8",
+        "provider_id": 2,
+        "type": "sport"
+    }
+]
