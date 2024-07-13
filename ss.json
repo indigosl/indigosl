@@ -27,6 +27,13 @@
         "provider_id": 2,
         "type": "Football"
     },
+           {
+        "provider_name": "Super Sport Maximo 1",
+        "logo_path": "https://nowsportstv.com/wp-content/uploads/2024/01/ssmaximo.webp",
+        "provider_link": "https://nowsportstv.com/crichd/stream.php?id=supermeximo&e=.m3u8",
+        "provider_id": 2,
+        "type": "Sport"
+    },
     {
         "provider_name": "Super Sport Variety 1",
         "logo_path": "https://nowsportstv.com/wp-content/uploads/2024/01/ssv1.webp",
