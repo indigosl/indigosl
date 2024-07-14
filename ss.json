@@ -1,4 +1,11 @@
 [
+     {
+        "provider_name": "eng spain",
+        "logo_path": "https://editorial.uefa.com/resources/028f-1b5c044fadff-693aa3f8eb0d-1000/format/wide1/16x9_euro24_finalposter_espeng_2.jpeg?imwidth=2048",
+        "provider_link": "https://a51.azplay.me/hls/streama224108/index.m3u8?cst=cf3e985010f62e7e15921ab2650fcaed",
+        "provider_id": 2,
+        "type": "sport"
+    },
     {
         "provider_name": "Super Sport Variety 4",
         "logo_path": "https://nowsportstv.com/wp-content/uploads/2024/01/ssv4.webp",
