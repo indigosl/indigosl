@@ -1,19 +1,5 @@
 [
 
-     {
-        "provider_name": "eng spain",
-        "logo_path": "https://cdn.punchng.com/wp-content/uploads/2024/07/13072709/Spain-vs-England-e1720852028345.jpeg",
-        "provider_link": "https://a94.azplay.me/hls/streama223451/index.m3u8?cst=bb9043b7b565f4efa46f5952b5423d9f",
-        "provider_id": 2,
-        "type": "sport"
-    },
-     {
-        "provider_name": "eng spain",
-        "logo_path": "https://editorial.uefa.com/resources/028f-1b5c044fadff-693aa3f8eb0d-1000/format/wide1/16x9_euro24_finalposter_espeng_2.jpeg?imwidth=2048",
-        "provider_link": "https://a51.azplay.me/hls/streama224108/index.m3u8?cst=cf3e985010f62e7e15921ab2650fcaed",
-        "provider_id": 2,
-        "type": "sport"
-    },
     {
         "provider_name": "Super Sport Variety 4",
         "logo_path": "https://nowsportstv.com/wp-content/uploads/2024/01/ssv4.webp",
@@ -24,10 +10,32 @@
     {
         "provider_name": "Premier League",
         "logo_path": "https://nowsportstv.com/wp-content/uploads/2024/01/ssp.webp",
-        "provider_link": "https://beecdn.wadim77289.workers.dev/SuperSport_Premier_League_Live_TV/tracks-v1a1/mono.m3u8",
+        "provider_link": "https://nowsportstv.com/crichd/stream.php?id=superpremier&e=.m3u8",
         "provider_id": 2,
         "type": "sport"
     },
+       {
+        "provider_name": "La liga",
+        "logo_path": "https://nowsportstv.com/wp-content/uploads/2024/01/sslaliga.webp",
+        "provider_link": "https://nowsportstv.com/crichd/stream.php?id=superlaliga&e=.m3u8",
+        "provider_id": 2,
+        "type": "sport"
+    },
+
+
+         {
+        "provider_name": "Sky Sport Mix",
+        "logo_path": "https://nowsportstv.com/wp-content/uploads/2023/09/skymix.webp",
+        "provider_link": "https://nowsportstv.com/crichd/stream.php?id=skysmixx&e=.m3u8",
+        "provider_id": 2,
+        "type": "sport"
+    },
+
+
+
+     
+
+     
     {
         "provider_name": "Super Sport Variety 2",
         "logo_path": "https://nowsportstv.com/wp-content/uploads/2024/01/ssv2.webp",
