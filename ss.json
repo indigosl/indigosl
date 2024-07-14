@@ -28,7 +28,16 @@
         "logo_path": "https://nowsportstv.com/wp-content/uploads/2023/09/skymix.webp",
         "provider_link": "https://nowsportstv.com/crichd/stream.php?id=skysmixx&e=.m3u8",
         "provider_id": 2,
-        "type": "sport"
+        "type": "Sky Sport Mix"
+    },
+
+
+         {
+        "provider_name": "Sky Sports Premier League",
+        "logo_path": "https://nowsportstv.com/wp-content/uploads/2023/04/skyspp.png",
+        "provider_link": "https://nowsportstv.com/crichd/stream.php?id=skysprem&e=.m3u8",
+        "provider_id": 2,
+        "type": "Sky Sport Premier"
     },
 
 
