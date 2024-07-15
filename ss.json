@@ -1,5 +1,13 @@
 [
 
+     {
+        "provider_name": "Agentina",
+        "logo_path": "https://copaamerica.com/_next/image?url=https%3A%2F%2Fcopaamerica-imagens-prod.s3.sa-east-1.amazonaws.com%2FFinal_Argentina_Colombia_d791122046.jpg&w=3840&q=75",
+        "provider_link": "https://a74.azplay.me/hls/streama223836/index.m3u8?cst=f37741bdc49c07e5bd20bea7ea7b0bdf",
+        "provider_id": 2,
+        "type": "sport"
+    },
+
     {
         "provider_name": "Super Sport Variety 4",
         "logo_path": "https://nowsportstv.com/wp-content/uploads/2024/01/ssv4.webp",
@@ -7,6 +15,7 @@
         "provider_id": 2,
         "type": "sport"
     },
+    
     {
         "provider_name": "Premier League",
         "logo_path": "https://nowsportstv.com/wp-content/uploads/2024/01/ssp.webp",
